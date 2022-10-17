@@ -3,5 +3,5 @@ https://github.com/google/wire
 
 # Run generate code and inject
 ```shell
-wire
+> wire
 ```
